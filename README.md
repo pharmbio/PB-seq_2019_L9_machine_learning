@@ -3,7 +3,11 @@
 ## Lecture slides and R exercises
 
 Course: Pharmaceutical bioinformatics with sequence analysis 
+
 Lecturer: Phil Harrison
+
 Department of Pharmaceutical Biosciences
+
 Uppsala University
+
 Spring 2019
