@@ -2,7 +2,7 @@
 
 ## Lecture slides and R exercises
 
-Course: Pharmaceutical bioinformatics with sequence analysis 
+Course: Pharmaceutical bioinformatics with sequence analysis (PB-seq)
 
 Lecturer: Phil Harrison
 
@@ -14,7 +14,7 @@ Spring 2019
 
 ## Recommended reading
 
-Chapter 11 (“Data analysis”) from the course text book (Introduction to Pharmaceutical Bioinformatics). Students on the course can get the book at a reduced price from: https://studentportalen.uu.se/portal/portal/uusp/student/webpage?uusp.portalpage=true&mode=webpage547390&toolMode=studentUse&entityId=156753&toolAttachmentId=547390
+Chapter 11 (“Data analysis”) from a useful textbook for the PB-seq course (Introduction to Pharmaceutical Bioinformatics): http://www.pharmbio.org/pages/literature
 
 An Inroduction to Statistical Learning with Applications in R. Book fee to download at: http://www-bcf.usc.edu/~gareth/ISL/index.html
 
